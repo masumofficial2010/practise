@@ -1,4 +1,3 @@
-this file belong to animal
 
 tiger
 lion
