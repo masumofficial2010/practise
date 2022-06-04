@@ -1,0 +1,4 @@
+this file belong to fruits
+
+apple
+mango 
