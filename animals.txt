@@ -2,4 +2,6 @@ this file belong to animals
 
 tiger
 lion
-
+deer
+cheetah
+bear
