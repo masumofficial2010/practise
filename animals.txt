@@ -1,7 +1,10 @@
-this file belong to animals 
+this file belong to animal
 
 tiger
 lion
 deer
 cheetah
 bear
+giraffe
+kangaroo
+elephant
